@@ -12,7 +12,7 @@
 _Learn why conflicts happen and how to resolve them._
 
 </header>
-
+Trunglf78@gmai.com
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
